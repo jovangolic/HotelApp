@@ -37,10 +37,9 @@ Hotel Reservation System is a full-stack web application that allows users to bo
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/jovangolic/HotelApp.git
-cd HotelApp 
 
+git clone https://github.com/jovangolic/HotelApp.git
+cd HotelApp
 
 ### Frontend setup
 - npm create vite@latest
